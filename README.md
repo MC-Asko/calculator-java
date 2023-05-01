@@ -23,5 +23,4 @@ Calculator.java
 35: Loš naziv metode, trebalo bi nazvati isNumeric.
 40: Loša praksa korišćenja System.out.println() umesto korišćenja loggera.
 47: Loša praksa korišćenja System.out.println() umesto korišćenja loggera.
-Ova zapažanja ne moraju nužno da ukazuju na greške u kodu, ali mogu ukazati na potencijalne nedoslednosti ili propuste u praksi kodiranja (Code Smells).
-
+Ova zapažanja ne moraju nužno da ukazuju na greške u kodu, ali mogu ukazati na potencijalne nedoslednosti ili propuste u praksi kodiranja.
